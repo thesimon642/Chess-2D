@@ -1,0 +1,679 @@
+fileFormatVersion: 2
+guid: 514ac3d72c3507948acda34cf8c86fbd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2897666721046433443
+    second: Chess_pieces_0
+  - first:
+      213: 5260281309275326396
+    second: Chess_pieces_1
+  - first:
+      213: -607519344796756818
+    second: Chess_pieces_2
+  - first:
+      213: -2758144525574443873
+    second: Chess_pieces_3
+  - first:
+      213: -5899372033220194680
+    second: Chess_pieces_4
+  - first:
+      213: 7371984921723696242
+    second: Chess_pieces_5
+  - first:
+      213: -1447427830830193244
+    second: Chess_pieces_6
+  - first:
+      213: -7122597313392513330
+    second: Chess_pieces_7
+  - first:
+      213: 5497765789188520303
+    second: Chess_pieces_8
+  - first:
+      213: -2026182131818908050
+    second: Chess_pieces_9
+  - first:
+      213: -6941124893788037663
+    second: Chess_pieces_10
+  - first:
+      213: 6593707295649966491
+    second: Chess_pieces_11
+  - first:
+      213: 412186976553258516
+    second: Chess_pieces_12
+  - first:
+      213: -454315304694124025
+    second: Chess_pieces_13
+  - first:
+      213: -8341776092903156023
+    second: Chess_pieces_14
+  - first:
+      213: -5689063611517928052
+    second: Chess_pieces_15
+  - first:
+      213: -5977298589382758269
+    second: Chess_pieces_16
+  - first:
+      213: 3058004294647374731
+    second: Chess_pieces_17
+  - first:
+      213: -6230818518798822287
+    second: Chess_pieces_18
+  - first:
+      213: 4998036803238114649
+    second: Chess_pieces_19
+  - first:
+      213: 8285698194074905966
+    second: Chess_pieces_20
+  - first:
+      213: -4579583338659782920
+    second: Chess_pieces_21
+  - first:
+      213: 1073736683359532931
+    second: Chess_pieces_22
+  - first:
+      213: -617814143548368789
+    second: Chess_pieces_23
+  - first:
+      213: -1427235135665755875
+    second: Chess_pieces_24
+  - first:
+      213: 321422313753641899
+    second: Chess_pieces_25
+  - first:
+      213: 7492991081643756708
+    second: Chess_pieces_26
+  - first:
+      213: 8853234424423987853
+    second: Chess_pieces_27
+  - first:
+      213: 1908195774238577337
+    second: Chess_pieces_28
+  - first:
+      213: 3499258690603565494
+    second: Chess_pieces_29
+  - first:
+      213: 5134283312067825784
+    second: Chess_pieces_30
+  - first:
+      213: -1401910469518919443
+    second: Chess_pieces_31
+  - first:
+      213: -234597329271992816
+    second: Chess_pieces_32
+  - first:
+      213: 2249142372458452204
+    second: Chess_pieces_33
+  - first:
+      213: 4969378832149633739
+    second: Chess_pieces_34
+  - first:
+      213: 7323124218442355434
+    second: Chess_pieces_35
+  - first:
+      213: 9004246018816526342
+    second: Chess_pieces_36
+  - first:
+      213: -6435566957403550490
+    second: Chess_pieces_37
+  - first:
+      213: -2369256648115054707
+    second: Chess_pieces_38
+  - first:
+      213: -2146936064369360773
+    second: Chess_pieces_39
+  - first:
+      213: 7106290181638541009
+    second: Chess_pieces_40
+  - first:
+      213: 4218791387088955341
+    second: Chess_pieces_41
+  - first:
+      213: 1834497783370514632
+    second: Chess_pieces_42
+  - first:
+      213: -6441402474232217228
+    second: Chess_pieces_43
+  - first:
+      213: -7607149795072475220
+    second: Chess_pieces_44
+  - first:
+      213: 3848550476328828803
+    second: Chess_pieces_45
+  - first:
+      213: 3786171314137670842
+    second: Chess_pieces_46
+  - first:
+      213: -3772021182231275592
+    second: Chess_pieces_47
+  - first:
+      213: -4071254798632831988
+    second: Chess_pieces_48
+  - first:
+      213: -1526961654573612880
+    second: Chess_pieces_49
+  - first:
+      213: 4777209111303977075
+    second: Chess_pieces_50
+  - first:
+      213: -5854982342655597061
+    second: Chess_pieces_51
+  - first:
+      213: -3161316244436446021
+    second: Chess_pieces_52
+  - first:
+      213: 1508651591601798448
+    second: Chess_pieces_53
+  - first:
+      213: 1252410708531894268
+    second: Chess_pieces_54
+  - first:
+      213: 4991659822025932487
+    second: Chess_pieces_55
+  - first:
+      213: 2291943901198966633
+    second: Chess_pieces_56
+  - first:
+      213: 4753886631535192707
+    second: Chess_pieces_57
+  - first:
+      213: 8810642816136924919
+    second: Chess_pieces_58
+  - first:
+      213: -6777498218027516995
+    second: Chess_pieces_59
+  - first:
+      213: 6542913874812980894
+    second: Chess_pieces_60
+  - first:
+      213: 6429796800156535373
+    second: Chess_pieces_61
+  - first:
+      213: 1893776424437082276
+    second: Chess_pieces_62
+  - first:
+      213: -4008241117673445467
+    second: Chess_pieces_63
+  - first:
+      213: -8185894777220912718
+    second: Chess_pieces_64
+  - first:
+      213: 8170602587755464583
+    second: Chess_pieces_65
+  - first:
+      213: 2304826483274577377
+    second: Chess_pieces_66
+  - first:
+      213: -1871230217544215795
+    second: Chess_pieces_67
+  - first:
+      213: -4649739096698089362
+    second: Chess_pieces_68
+  - first:
+      213: 1111489557692208072
+    second: Chess_pieces_69
+  - first:
+      213: 7547243664663038108
+    second: Chess_pieces_70
+  - first:
+      213: -76335518962888217
+    second: Chess_pieces_71
+  - first:
+      213: 7618484362339579626
+    second: Chess_pieces_72
+  - first:
+      213: -8862314341888307455
+    second: Chess_pieces_73
+  - first:
+      213: 1606935761354802117
+    second: Chess_pieces_74
+  - first:
+      213: -3776033262683430218
+    second: Chess_pieces_75
+  - first:
+      213: -723232678485721632
+    second: Chess_pieces_76
+  - first:
+      213: -6170749966175432794
+    second: Chess_pieces_77
+  - first:
+      213: -6422148701602745054
+    second: Chess_pieces_78
+  - first:
+      213: -2878080681980747206
+    second: Chess_pieces_79
+  - first:
+      213: 9022215031758621873
+    second: Chess_pieces_80
+  - first:
+      213: 4265034351496063949
+    second: Chess_pieces_81
+  - first:
+      213: 3418810583157593803
+    second: Chess_pieces_82
+  - first:
+      213: 1045256753774798339
+    second: Chess_pieces_83
+  - first:
+      213: -7561728491322210465
+    second: Chess_pieces_84
+  - first:
+      213: 2300800273168135708
+    second: Chess_pieces_85
+  - first:
+      213: -1718877131519623099
+    second: Chess_pieces_86
+  - first:
+      213: 6747206025769074876
+    second: Chess_pieces_87
+  - first:
+      213: 2550267855346182655
+    second: Chess_pieces_88
+  - first:
+      213: -582599490007961709
+    second: Chess_pieces_89
+  - first:
+      213: -8836120790042284919
+    second: Chess_pieces_90
+  - first:
+      213: 7767212947301727845
+    second: Chess_pieces_91
+  - first:
+      213: -7771039564131255263
+    second: Chess_pieces_92
+  - first:
+      213: -1038904070454413383
+    second: Chess_pieces_93
+  - first:
+      213: -840744509035594167
+    second: Chess_pieces_94
+  - first:
+      213: -7793508800972105416
+    second: Chess_pieces_95
+  - first:
+      213: -2323331709069885732
+    second: Chess_pieces_96
+  - first:
+      213: -5338474119500166894
+    second: Chess_pieces_97
+  - first:
+      213: -831518065494799690
+    second: Chess_pieces_98
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 213
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Chess_pieces_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 232
+        width: 167
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d517e8e387b69c7d0800000000000000
+      internalID: -2897666721046433443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chess_pieces_1
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 235
+        width: 185
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb78bf90bf5400940800000000000000
+      internalID: 5260281309275326396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chess_pieces_2
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 237
+        width: 168
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4163bef58a197f0800000000000000
+      internalID: -607519344796756818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chess_pieces_3
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 237
+        width: 162
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c62f1da2a19b9d0800000000000000
+      internalID: -2758144525574443873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chess_pieces_4
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 237
+        width: 140
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e490a5468312ea0800000000000000
+      internalID: -5899372033220194680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chess_pieces_5
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 235
+        width: 120
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27470e45a3d8e4660800000000000000
+      internalID: 7371984921723696242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chess_pieces_6
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 20
+        width: 167
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a52a518e04b9ebe0800000000000000
+      internalID: -1447427830830193244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chess_pieces_7
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 15
+        width: 185
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece66190b73772d90800000000000000
+      internalID: -7122597313392513330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chess_pieces_8
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 22
+        width: 168
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6970ea5bdcfb4c40800000000000000
+      internalID: 5497765789188520303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chess_pieces_9
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 22
+        width: 162
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66b0b6161e81e3e0800000000000000
+      internalID: -2026182131818908050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chess_pieces_10
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 22
+        width: 140
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed942c4fab2caf90800000000000000
+      internalID: -6941124893788037663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chess_pieces_11
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 20
+        width: 120
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b992e16b9dd818b50800000000000000
+      internalID: 6593707295649966491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
